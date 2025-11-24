@@ -1,0 +1,7 @@
+title: FV Schach Wolfgang Uhlmann
+description: Vereins-Wiki des FV Schach
+baseurl: ""
+url: "https://fv-schach.de"
+
+# Build settings
+markdown: kramdown
